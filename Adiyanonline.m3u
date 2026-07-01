@@ -33,7 +33,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722 /output/1722-audio_113522_eng=113200-vi
 https://ekusheyserver.com/hls-live/livepkgr /_definst_/liveevent/livestream3.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser -20240628-105829130.png"group-title=" Bangladeshi", Ntv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716 /output/1716-audio_113462_eng=113200-video= 1692000.m3u8
-#EXTINF:-1 tvg-logo="https://upload .wikimedia.org/wikipedia/en/thumb/0/00/Logo _of_Deepto_TV.svg/1200px-Logo_of_Deepto_TV.svg.png" group-title="Bangladeshi" Deepto Tv Backup
+#EXTINF:-1 tvg-logo="https://upload .wikimedia.org/wikipedia/en/thumb/0/00/Logo _of_Deepto_TV.svg/1200px-Logo_of_Deepto_TV.svg.png" group-title="Bangladeshi"Deepto Tv Backup"
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711 /output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Akash Go",Deepto TV
