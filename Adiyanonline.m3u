@@ -235,19 +235,19 @@ https://tv.beyondtaxconsultants.com/api/proxy?url=http://198.195.239.50:8095/tsp
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="s1781457588767" tvg-country="br" group-title="Football World Cup 2026",Coze TV FIFA World Cup 2026
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"" tvg-country="br" group-title="Football World Cup 2026",Coze TV FIFA World Cup 2026
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
 http://103.151.60.188:1111/Somoy-TV-SD-700kb/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1group-title="Football World Cup 2026",Coze TV FIFA World Cup 2026,Caze TV (720)
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Coze TV FIFA World Cup 2026,Caze TV (720)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
-#EXTINF:-1 group-title="Football World Cup 2026",Coze TV FIFA World Cup 2026,BEIN Sports 1 1080P
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Coze TV FIFA World Cup 2026,BEIN Sports 1 1080P
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 group-title="Football World Cup 2026",Coze TV FIFA World Cup 2026,ESPN 5 (Backup 2)
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Coze TV FIFA World Cup 2026,ESPN 5 (Backup 2)
 http://daleplaytv.vip:80//live/123MMM/654321/306878.ts
-#EXTINF:-1 group-title="Football World Cup 2026",Coze TV FIFA World Cup 2026,BEIN SPORTS 1 Turkey
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Coze TV FIFA World Cup 2026,BEIN SPORTS 1 Turkey
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 
 FIFA+
