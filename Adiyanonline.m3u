@@ -103,6 +103,11 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 Indian Bangla
 
 
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur .com/79g2kMA.png",Star Jalsha
+http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur .com/79g2kMA.png",Jalsha Movies
+http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wPnKf19/Sony-Aath.jpg" group-title="Indian Bangla",R Plus News
