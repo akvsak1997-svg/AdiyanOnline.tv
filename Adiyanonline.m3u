@@ -821,7 +821,7 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 http://198.195.239.50:8095/ptv/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png"group-title="DISH MIX BANGLA INDIA KOLKATA 2",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Atn Bangla
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png"group-title="DISH MIX BANGLA INDIA KOLKATA 2",Atn Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png"group-title="DISH MIX BANGLA INDIA KOLKATA 2",Ntv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
