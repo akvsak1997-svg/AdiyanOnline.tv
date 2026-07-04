@@ -250,35 +250,6 @@ http://daleplaytv.vip:80//live/123MMM/654321/306878.ts
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",FIFA World Cup 2026,BEIN SPORTS 1 Turkey
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 
-FIFA+
-
-#EXTINF:-1 tvg-id="fifa-plus" tvg-country="us" group-title="FIFA+",FIFA+
-https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260604T024843.m3u8
-
-#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ English 🏆
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ 🇦🇷 Argentina
-https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ 🇫🇷 France
-https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ 🇩🇪 Germany
-https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ 🇮🇹 Italy
-https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ 🇧🇷 Brazil
-https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ 🇪🇸 Spain
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ 🇺🇸 USA
-https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-
 Indian Hindi Movie & Music
 
 #EXTINF:-1 tvg-name="B4U Movies" group-title="Indian Hindi Movie & Music",B4U Movies
@@ -585,6 +556,36 @@ https://nomawnoijl.gpcdn.net/akash/sportrange/chunks.m3u8
 https://nomawnoijl.gpcdn.net/akash/intelligence/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png"group-title="DISH MIX BANGLA INDIA KOLKATA",Truestory
 https://nomawnoijl.gpcdn.net/akash/truestories/chunks.m3u8
+
+FIFA+
+
+#EXTINF:-1 tvg-id="fifa-plus" tvg-country="us" group-title="FIFA+",FIFA+
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260604T024843.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ English 🏆
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ 🇦🇷 Argentina
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ 🇫🇷 France
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ 🇩🇪 Germany
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ 🇮🇹 Italy
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ 🇧🇷 Brazil
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ 🇪🇸 Spain
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA+ 🇺🇸 USA
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
 
 
 NEWS INTERNASIONAL
