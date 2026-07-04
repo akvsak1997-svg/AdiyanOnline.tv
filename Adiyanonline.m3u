@@ -1,6 +1,6 @@
 Bangladeshi
-
-#EXTINF:-1 tvg-name="Welcome to ADIYAN Online  TV"
+#EXTINF:-1 tvg-name="Welcome to ADIYAN Online TV" group-title="Welcome to ADIYAN Online TV"
+#EXTINF:-1 tvg-name="Welcome to ADIYAN Online TV"
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangladeshi",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangladeshi",Somoy TV
