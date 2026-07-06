@@ -1161,9 +1161,11 @@ Documentary
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
+HINDI Movie MP4
 
-Hindu
 
+#EXTINF:-1 tvg-logo="https://upload.wikimed ia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="HINDI MOVIES",Drishyam 3
+http://172.27.27.124/s1d1/Tamil-2026/Drishyam%203%20%282026%29/Drishyam.3.%282026%29.Hindi.Dubbed.HQ.1080p.mkv
 
 #EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/837.png" group-title="Hindu",Hare Krsna
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
