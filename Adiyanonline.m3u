@@ -177,7 +177,7 @@ https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/HMfImxTUXS.jpg", Cricket Gold
-https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fbuffering453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
 
 #EXTINF:-1,Caze TV (720)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
@@ -223,7 +223,7 @@ http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Football World Cup 2026 TV B ðŸ‡§ðŸ‡©
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://tvassets.roarzone.net/images/102.png",T Sports
+EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="Football World Cup 2026",T Sports zero buffering
 https://tv.hrdvy.dpdns.org/stream/hls/ch01.m3u8
 
 #EXTINF:-1 group-title="Football World Cup 2026",T SPORTS  1
