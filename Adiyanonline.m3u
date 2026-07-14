@@ -223,7 +223,7 @@ http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Football World Cup 2026 TV B ðŸ‡§ðŸ‡©
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="Football World Cup 2026",T Sports zero buffering
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="Football World Cup 2026",T Sports zero buffering
 https://tv.hrdvy.dpdns.org/stream/hls/ch01.m3u8
 
 #EXTINF:-1 group-title="Football World Cup 2026",T SPORTS  1
